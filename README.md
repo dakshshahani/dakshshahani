@@ -3,7 +3,7 @@
 <!--
 **dakshshahani/dakshshahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some  to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 📚 3rd year Computer Science @ The University of British Columbia
+- 🛠️ Currently learning AWS Tools
+- 👨‍💻 Marketing @ nwPlus
+- ✉️ Reach me at [email](dakshitshahani@gmail.com) or [connect on linkedin](https://www.linkedin.com/in/dakshit-shahani/)
