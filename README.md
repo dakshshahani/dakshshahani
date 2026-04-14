@@ -15,6 +15,6 @@ Here are some  to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📚 3rd year Computer Science @ The University of British Columbia
-- 🛠️ Currently learning AWS Tools
-- 👨‍💻 Marketing @ nwPlus
+- 🛠️ Currently learning Rust and XCode
+- 👨‍💻 Dev @ nwPlus
 - ✉️ Reach me at [email](dakshitshahani@gmail.com) or [connect on linkedin](https://www.linkedin.com/in/dakshit-shahani/)
