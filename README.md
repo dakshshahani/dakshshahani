@@ -15,6 +15,6 @@ Here are some  to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📚 3rd year Computer Science @ The University of British Columbia
-- 🛠️ Currently learning Rust and XCode
+- 🛠️ Currently learning Rust and Swift
 - 👨‍💻 Dev @ nwPlus
 - ✉️ Reach me at [email](dakshitshahani@gmail.com) or [connect on linkedin](https://www.linkedin.com/in/dakshit-shahani/)
